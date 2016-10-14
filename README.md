@@ -1,2 +1,11 @@
 # ysu-grafica
-Identidad grafica de YoSoyUno
+
+Repositorio de la Identidad grafica de YoSoyUno
+
+## ToDo
+
+* Colores
+* Tipografias
+* Optimizar isotipo
+* Definir familia de iconos
+* ...
