@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="110"
+   height="110"
+   viewBox="0 0 110.00001 110"
+   id="svg9124"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="ysu-activacionysu3.svg"
+   inkscape:export-filename="/home/german/semilla1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs9126" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-159.637"
+     inkscape:cy="-105.71429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata9129">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-942.36247)">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 54.999923,947.36257 c -27.6149,0 -49.9999997,22.3851 -49.9999997,50 0,0 0,0.01 0,0.01 l 38.1894997,-6.6777 -11.4942,-18.8438 17.1973,10.4981 6.1192,-34.9864 c 0,0 -0.01,0 -0.012,0 z m 0.012,0 6.3261,36.1895 19.1739,-11.7012 -11.709,19.1914 36.197157,6.3301 c 0,0 0,-0.01 0,-0.01 0,-27.6109 -22.378697,-49.9936 -49.988157,-50 z m 49.988157,50.0098 -34.201057,5.98243 11.91786,19.5195 -21.16986,-12.9121 -6.5351,37.4004 c 27.60626,-0.01 49.982857,-22.3837 49.988157,-49.99023 z m -49.988157,49.99023 -6.3262,-36.1953 -19.1875,11.707 11.6992,-19.1777 -36.1972997,-6.32423 c 0.01,27.61043 22.3883997,49.99023 49.9999997,49.99023 0,0 0.01,0 0.012,0 z"
+       id="path9098"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
