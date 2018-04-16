@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="110"
+   height="110"
+   viewBox="0 0 110.00001 110"
+   id="svg9124"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="ysu-hexagono1.svg"
+   inkscape:export-filename="/home/german/semilla1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs9126" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-159.637"
+     inkscape:cy="-105.71429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata9129">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-942.36247)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path8938"
+       d="m 55.000633,947.36247 c -27.61495,0 -50.0012797,22.3851 -50.0012797,49.99999 0,27.61504 22.3863297,50.00004 50.0012797,50.00004 27.61497,0 50.000017,-22.385 50.000017,-50.00004 0,-27.61489 -22.385047,-49.99999 -50.000017,-49.99999 z m 0.15362,9.3438 32.85939,18.6745 -30.17448,14.8476 -2.68491,-33.5221 z m -1.61588,0.358 -2.20572,33.2084 -30.0586,-14.2878 32.26432,-18.9206 z m 35.94532,19.2332 0.26172,38.70183 -28.61461,-19.15754 28.35289,-19.54429 z m -69.40236,0.8633 28.03646,18.76949 -27.77865,19.14714 -0.25781,-37.91663 z m 37.83464,24.33723 31.51303,14.9792 -33.82682,19.8385 2.31379,-34.8177 z m -6.50651,0.044 2.75651,34.4349 -33.75131,-19.1836 30.9948,-15.2513 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+</svg>
